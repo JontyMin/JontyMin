@@ -3,16 +3,26 @@ I'm Jonty,一个经历生活无数次殴打但还热衷于生活的骚年<img sr
 - ⚡热爱编程，喜欢折腾，全栈路上...
 - 🌱大志非才不就，大才非学不成
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ A little more about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
 ```javascript
 const thai = {
   pronouns: "he" | "him",
   code: [CSharp, JavaScript, HTML, CSS, Vue, Python, Java],
-  tools: [VSCode, VisualStudio, Node, Git, PostMan, XShell, Docker],
+  tools: [VSCode, VisualStudio, PyCharm, Git, Terminal, XShell, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on CSharp and JavaScript"
 }
 ```
 
-[![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=jontyMin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<p style="padding:15px">
+    <img width="400"src="https://github-readme-stats.vercel.app/api?username=JontyMin&show_icons=true&theme=tokyonight" title="Jonty's github stats" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JontyMin&layout=compact" title="Top Langs" />
+</p>
+
+
+
+
+
+
+
