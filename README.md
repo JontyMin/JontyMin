@@ -15,12 +15,14 @@ const thai = {
 }
 ```
 
-<p style="padding:15px">
+<p  align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JontyMin&show_icons=true&theme=tokyonight" title="Jonty's github stats" />
-   <p align="center"> 
+</p>
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jontymin/count.svg" />
 </p>
+
 
 
 
