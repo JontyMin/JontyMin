@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm Jonty,一个经历生活无数次殴打但还热衷于生活的骚年<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- 👨‍💻 Front back left right end engineer
 - ⚡热爱编程，喜欢折腾，全栈路上...
 - 🌱大志非才不就，大才非学不成
 
@@ -16,16 +18,15 @@ const thai = {
 ```
 
 <p  align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JontyMin&show_icons=true&theme=tokyonight" title="Jonty's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JontyMin&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" title="Jonty's github stats" />
 </p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jontymin/count.svg" />
 </p>
 
-
-
-
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 
 
