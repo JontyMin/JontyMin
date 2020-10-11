@@ -3,7 +3,7 @@ I'm Jonty,一个经历生活无数次殴打但还热衷于生活的骚年<img sr
 
 - 💻 Front and rear engineers
 - ⚡ Love programming, like toss, full stack road...
-- 🌱 大志非才不就，大才非学不成
+- 🌱 大志非才不就，大才非学不成<br>
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
