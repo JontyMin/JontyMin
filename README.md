@@ -12,7 +12,7 @@ const thai = {
   code: [CSharp, JavaScript, HTML, CSS, Vue, Python, Java],
   tools: [VSCode, VisualStudio, PyCharm, Git, Terminal, XShell, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on CSharp and JavaScript"
+  challenge: "I am learning data structure and algorithm"
 }
 ```
 
