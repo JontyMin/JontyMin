@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://jonty.top](https://jonty.top)
 
-- 📫 How to reach me **amazing4677@gmail.com**
+- 📫 How to reach me **jonty.wang@outlook.com**
 
 - ⚡ Fun fact **Tennis balls**
 
