@@ -17,7 +17,7 @@
 ### 🧰 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,python,docker,kubernetes,redis,mysql,nginx,githubactions,cloudflare,linux,git&perline=14" alt="toolbox" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,python,docker,kubernetes,redis,nginx,githubactions,cloudflare,linux,git&perline=13" alt="toolbox" />
 </p>
 
 ### 📊 Stats
