@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonty</h1>
-<h3 align="center">Full-stack .NET engineer — the "becoming a DevOps engineer" arc shipped to prod;<br/>current quest: herding a crew of AI agents 🤠</h3>
+<h3 align="center">Agent Harness Engineer — I build the harness, the agents write the code;<br/>someone has to review their reviews 🤠</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jontymin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
